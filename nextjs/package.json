@@ -1,0 +1,22 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "10.0.10",
+    "@emotion/is-prop-valid": "0.7.3",
+    "@emotion/styled": "10.0.10",
+    "axios": "0.18.0",
+    "emotion-theming": "10.0.10",
+    "mineral-ui": "0.58.0",
+    "moment": "2.24.0",
+    "next": "8.1.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}
